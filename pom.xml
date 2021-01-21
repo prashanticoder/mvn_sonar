@@ -31,10 +31,7 @@
        <id>nexus</id>
        <url>http://35.226.90.87:8085/repository/maven-snapshots</url>
     </snapshotRepository>
-    <repository>
-      <id>nexus</id>
-      <url>http://35.226.90.87:8085/repository/maven-releases</url>
-    </repository>
+    
   </distributionManagement>
 
 </project>
